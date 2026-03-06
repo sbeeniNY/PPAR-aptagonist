@@ -11,8 +11,8 @@
 
 
 **Important links**: 
-- GEO: [GSE322596 (Bulk RNA-seq)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE322596){:target="_blank"} and [GSE322774 (scRNA-seq)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE322774){:target="_blank"}
-- SRA: BioProject [PRJNA1337136]() and [PRJNA1334117]()
+- GEO: [GSE322596 (Bulk RNA-seq)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE322596) and [GSE322774 (scRNA-seq)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE322774)
+- SRA: BioProject [PRJNA1337136 (Bulk RNA-seq)]() and [PRJNA1334117 (scRNA-seq)]()
 
 ---
 
@@ -29,7 +29,7 @@ data/ : Input datasets and result files.
     - `SCRIPTS/Fig3_CLEAN.Rmd` - Differential expression between response groups, within weight groups
     - `SCRIPTS/Fig4_CLEAN.Rmd` - Differential expression and enrichment over time between weight groups and response groups
     - `SCRIPTS/Fig5_CLEAN.Rmd` - Cell type abundance over time, stratified by weight and vaccine response
-- **Data**: [`data/`](https://github.com/GhedinSGS/CIVIC_longitudinal_whole_blood_transcriptomics_obesity/tree/main/DATA) - Input datasets and result files - for additional data please see above for contact information.
+- **Data**: [`data/`](https://github.com/GhedinSGS/CIVIC_longitudinal_whole_blood_transcriptomics_obesity/tree/main/DATA) - Input datasets and result files; for additional data please see above for contact information.
     - `DATA/CIBERSORTx_LM22.csv`
     - `DATA/CIBERSORTx_MCCS.csv`
     - `DATA/CIBERSORTx_immunoStates.csv`
