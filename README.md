@@ -11,8 +11,8 @@
 
 
 **Important links**: 
-GEO: [GSE322596 (Bulk RNA-seq)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE322596){:target="_blank"} and [GSE322774 (scRNA-seq)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE322774){:target="_blank"}
-SRA: BioProject [PRJNA1337136]() and [PRJNA1334117]()
+- GEO: [GSE322596 (Bulk RNA-seq)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE322596){:target="_blank"} and [GSE322774 (scRNA-seq)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE322774){:target="_blank"}
+- SRA: BioProject [PRJNA1337136]() and [PRJNA1334117]()
 
 ---
 
