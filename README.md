@@ -9,6 +9,7 @@
 
 **For more information or access to larger files (such as the .RData file containing counts and metadata) please contact**: [subin.cho@mssm.edu & woori.s@chungbuk.ac.kr](mailto:subin.cho@mssum.edu,woori.s@chungbuk.ac.kr?cc=subin.cho.bioinfo@gmail.com)
 
+<br/><br/>
 
 **Important links**: 
 - GEO: [GSE322596 (Bulk RNA-seq)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE322596) and [GSE322774 (scRNA-seq)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE322774)
@@ -19,9 +20,6 @@
 ## Repository Structure
 
 The repository is organized into the following main directories:
-
-codes/ : All R scripts for statistical analysis and data visualization for figure 5 & 6
-data/ : Input datasets and result files.
 
 - **Source Code**: [`codes/`](https://github.com/GhedinSGS/CIVIC_longitudinal_whole_blood_transcriptomics_obesity/tree/main/SCRIPTS) -  R scripts for statistical analysis and data visualization for figure 5 & 6.
     - `SCRIPTS/Fig1_CLEAN.Rmd` - Differential gene expression over time in different vaccine responders regardless of comorbidities
