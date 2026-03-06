@@ -21,7 +21,7 @@
 
 The repository is organized into the following main directories:
 
-- **Source Code**: [`codes/`](https://github.com/GhedinSGS/CIVIC_longitudinal_whole_blood_transcriptomics_obesity/tree/main/SCRIPTS) -  R scripts for statistical analysis and data visualization for figure 5 & 6.
+- **Source Code**: [`codes/`](https://github.com/GhedinSGS/CIVIC_longitudinal_whole_blood_transcriptomics_obesity/tree/main/SCRIPTS) -  R scripts for statistical analysis and data visualization for figures.
     - `SCRIPTS/Fig1_CLEAN.Rmd` - Differential gene expression over time in different vaccine responders regardless of comorbidities
     - `SCRIPTS/Fig2_CLEAN.Rmd` - Differential gene expression analysis of BMI
     - `SCRIPTS/Fig3_CLEAN.Rmd` - Differential expression between response groups, within weight groups
