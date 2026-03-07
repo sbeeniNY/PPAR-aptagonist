@@ -22,11 +22,8 @@
 The repository is organized into the following main directories:
 
 - **Source Code**: [`codes/`](https://github.com/sbeeniNY/PPAR-aptagonist/main/codes) -  R scripts for statistical analysis and data visualization for figures.
-    - `SCRIPTS/Fig1_CLEAN.Rmd` - Differential gene expression over time in different vaccine responders regardless of comorbidities
-    - `SCRIPTS/Fig2_CLEAN.Rmd` - Differential gene expression analysis of BMI
-    - `SCRIPTS/Fig3_CLEAN.Rmd` - Differential expression between response groups, within weight groups
-    - `SCRIPTS/Fig4_CLEAN.Rmd` - Differential expression and enrichment over time between weight groups and response groups
-    - `SCRIPTS/Fig5_CLEAN.Rmd` - Cell type abundance over time, stratified by weight and vaccine response
+    - `codes/Fig5.R` - BulkRNA-seq data analysis
+    - `codes/Fig6.R` - scRNA-seq data analysis
 - **Data**: [`data/`](https://github.com/sbeeniNY/PPAR-aptagonist/main/data) - Input datasets and result files; for additional data please see above for contact information.
     - `data/PPARG.scRNA.rds.part-000` - md5sum : d9e1badb2cea3de19b54ce4234761ff8
     - `data/PPARG.scRNA.rds.part-001` - md5sum : b780914cf8eda4126e1e506bc3e2215a
