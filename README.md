@@ -1,7 +1,9 @@
 <!-- Center the main title -->
-<h1 align="center">PPARγ aptagonist and metabolic reprogramming in obese male mice and non-human primates</h1>
+<h1 align="center">Structure-guided engineering of an RNA aptamer enables intracellular inhibition of PPARγ signaling to treat diet-induced obesity</h1>
 
-<h4 align="center">Woo-Ri Shin<sup>1</sup>, Subin Cho<sup>2</sup></h4>
+<h4 align="center">
+In-Hwan Oh; Woo-Ri Shin<sup>1</sup>; Gyu-Seo Bae; Subin Cho<sup>2</sup>; Dae-Young Park; Jin-Pyo Lee; Su-Min Lee; Eunsu Jeon; Young-Hyun Kim; Jae-Won Huh; Jiho Min; Ji-Young Ahn; Yang-Hoon Kim
+</h4>
 
 **Author Affiliations**: 
 - <sup>1</sup>Microbiology, College of Medicine, Chungbuk National University, Cheongju, Chungbuk, Republic of Korea
