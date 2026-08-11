@@ -2,12 +2,16 @@
 <h1 align="center">Structure-guided engineering of an RNA aptamer enables intracellular inhibition of PPARγ signaling to treat diet-induced obesity</h1>
 
 <h4 align="center">
-In-Hwan Oh; Woo-Ri Shin<sup>1</sup>; Gyu-Seo Bae; Subin Cho<sup>2</sup>; Dae-Young Park; Jin-Pyo Lee; Su-Min Lee; Eunsu Jeon; Young-Hyun Kim; Jae-Won Huh; Jiho Min; Ji-Young Ahn; Yang-Hoon Kim
+ In-Hwan Oh<sup>1,†</sup>, Woo-Ri Shin<sup>1, 2,†</sup>, Gyu-Seo Bae<sup>3</sup>, Subin Cho<sup>4</sup>, Dae-Young Park<sup>1</sup>, Jin-Pyo Lee<sup>1</sup>, Su-Min Lee<sup>1</sup>, Eunsu Jeon<sup>3</sup>, Young-Hyun Kim<sup>3</sup>, Jae-Won Huh<sup>3,5,*</sup>, Jiho Min<sup>6,*</sup>, Ji-Young Ahn<sup>1,*</sup>, and Yang-Hoon Kim<sup>1,*</sup>
 </h4>
 
 **Author Affiliations**: 
-- <sup>1</sup>Microbiology, College of Medicine, Chungbuk National University, Cheongju, Chungbuk, Republic of Korea
-- <sup>2</sup>Genetics and Genomics Sciences, Icahn School of Medicine at Mount Sinai, New York, New York, USA
+- <sup>1</sup>Department of Microbiology, Chungbuk National University, 1 Chungdae-Ro, Seowon-Gu, Cheongju 28644, Republic of Korea
+- <sup>2</sup>Department of Microbiology, College of Medicine, Chungbuk National University, Cheongju 28644, Republic of Korea
+- <sup>3</sup>National Primate Research Center (NPRC), Korea Research Institute of Bioscience and Biotechnology (KRIBB), Cheongju 28116, Republic of Korea
+- <sup>4</sup>Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, One Gustave L. Levy Place, New York, NY 10029, USA
+- <sup>5</sup>Department of Functional Genomics, KRIBB School of Bioscience, University of Science & Technology (UST), Cheongju, 28116, Korea
+- <sup>6</sup>Graduate School of Semiconductor and Chemical Engineering, Jeonbuk National University, Jeonju 54896, Republic of Korea
 
 **For more information or access to larger files (such as the .RData file containing counts and metadata) please contact**: [subin.cho@mssm.edu & woori.s@chungbuk.ac.kr](mailto:subin.cho@mssum.edu,woori.s@chungbuk.ac.kr?cc=subin.cho.bioinfo@gmail.com)
 
